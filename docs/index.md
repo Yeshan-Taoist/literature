@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "繁华世界，纷繁复杂"
   text: "读万卷书，行万里路"
-  tagline: My great project tagline
+  tagline: ... ...
   actions:
     - theme: brand
       text: Markdown Examples
